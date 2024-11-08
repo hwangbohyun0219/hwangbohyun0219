@@ -1,4 +1,5 @@
-![안녕](https://img.shields.io/badge/-안녕-FFDD00?style=for-the-badge&logo=smile&logoColor=black)
+![안녕](https://img.shields.io/badge/-안녕-2196F3?style=flat-square&logo=smile&logoColor=white)
+
  + 안녕하세요. 열정적인 개발자 **황보현**입니다.
 
 ## 🛠 Tech Stack
