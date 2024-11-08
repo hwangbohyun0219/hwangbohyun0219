@@ -15,10 +15,18 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ## 🚀 Recent Projects
-[팀프로젝트1](https://github.com/hwangbohyun0219/html-project)
-[개인프로젝트1]()
-[개인프로젝트2]()
+[팀프로젝트1]()
+**Tech Stack**: React, Node.js, MongoDB  
+**Status**: Completed
+[개인프로젝트1](https://github.com/hwangbohyun0219/html-project)
+**Tech Stack**: React, Node.js, MongoDB  
+**Status**: Completed
+[개인프로젝트2](https://github.com/hwangbohyun0219/react-project)
+**Tech Stack**: React, Node.js, MongoDB  
+**Status**: Completed
 [팀프로젝트2]()
+**Tech Stack**: React, Node.js, MongoDB  
+**Status**: Completed
 
 ## 📚 Tech Articles
 + 그림으로 배우는 자바 프로그래밍(저자:마나 타카하시)
