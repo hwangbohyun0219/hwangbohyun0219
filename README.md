@@ -1,7 +1,7 @@
 ## 👋 안녕하세요
-+ 침착하고 열정적인 개발자 **황보현**입니다.
++ 침착하고 열정적인 웹개발자 **황보현**입니다.
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -16,17 +16,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-## 🚀 Recent Projects
-[팀프로젝트1]()
+## 🚀 최근 프로젝트
+[현이의 가방끈]()
 
-+ **Description**:
++ **부연설명**:
 자바와 스프링부트를 이용하여 책을 판매하는 동시에 사용자가 구매한 책으로 학습할 수 있는
 
 
 커뮤니티에 참여할 수 있도록 하는 사이트를 제작
 
 
-+ **Tech Stack**: 
++ **사용 언어**: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -35,40 +35,40 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 
-+ **Live Video**: []()
++ **라이브 비디오**: []()
 
 
-+ **Status**: Completed
++ **진행 상황**: Completed
 
 
 
 [개인프로젝트1](https://github.com/hwangbohyun0219/html-project)
 
-+ **Description**: 우주의 태양계를 컨셉으로 하여 시계에 특별함을 더해주는 게시판 사이트
++ **부연설명**: 우주의 태양계를 컨셉으로 하여 시계에 특별함을 더해주는 게시판 사이트
 
 
-+ **Tech Stack**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
++ **사용언어**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
-+ **Status**: Completed
++ **진행상황**: Completed
 
 
 
 [개인프로젝트2](https://github.com/hwangbohyun0219/react-project)
 
-+ **Description**: 자바스크립트와 리액트를 활용한 sns 사이트
++ **부연설명**: 자바스크립트와 리액트를 활용한 sns 사이트
 
 
-+ **Tech Stack**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
++ **사용 언어**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-+ **Status**: completed
++ **진행상황**: completed
 
 
 
@@ -80,6 +80,9 @@
 
    
 + **Status**: in porgress
+
+
+
 
 
 ## 📚 Tech Articles
