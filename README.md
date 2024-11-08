@@ -2,6 +2,8 @@
 + 침착하고 열정적인 개발자 **황보현**입니다.
 
 ## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
 
