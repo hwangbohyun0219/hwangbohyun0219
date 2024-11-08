@@ -18,12 +18,15 @@
 [팀프로젝트1]()
 **Tech Stack**: React, Node.js, MongoDB  
 **Status**: Completed
+
 [개인프로젝트1](https://github.com/hwangbohyun0219/html-project)
 **Tech Stack**: React, Node.js, MongoDB  
 **Status**: Completed
+
 [개인프로젝트2](https://github.com/hwangbohyun0219/react-project)
 **Tech Stack**: React, Node.js, MongoDB  
 **Status**: Completed
+
 [팀프로젝트2]()
 **Tech Stack**: React, Node.js, MongoDB  
 **Status**: Completed
