@@ -41,7 +41,7 @@
 
 
 **Tech Stack**: React, Node.js, MongoDB  
-**Status**: Completed
+**Status**: in progress
 
 
 
