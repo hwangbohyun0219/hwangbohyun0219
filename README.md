@@ -19,14 +19,14 @@
 ## 🚀 Recent Projects
 [팀프로젝트1]()
 
-**Description**:
++ **Description**:
 자바와 스프링부트를 이용하여 책을 판매하는 동시에 사용자가 구매한 책으로 학습할 수 있는
 
 
 커뮤니티에 참여할 수 있는 사이트를 제작
 
 
-**Tech Stack**: 
++ **Tech Stack**: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -35,40 +35,40 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 
-**Live Video**: []()
++ **Live Video**: []()
 
 
-**Status**: Completed
++ **Status**: Completed
 
 
 
 [개인프로젝트1](https://github.com/hwangbohyun0219/html-project)
 
-**Description**: 우주의 태양계를 컨셉으로 하여 시계에 특별함을 더해주는 게시판 사이트
++ **Description**: 우주의 태양계를 컨셉으로 하여 시계에 특별함을 더해주는 게시판 사이트
 
 
-**Tech Stack**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
++ **Tech Stack**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
-**Status**: Completed
++ **Status**: Completed
 
 
 
 [개인프로젝트2](https://github.com/hwangbohyun0219/react-project)
 
-**Description**: 자바스크립트와 리액트를 활용한 sns 사이트
++ **Description**: 자바스크립트와 리액트를 활용한 sns 사이트
 
 
-**Tech Stack**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
++ **Tech Stack**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-**Status**: completed
++ **Status**: completed
 
 
 
@@ -76,8 +76,10 @@
 [팀프로젝트2]()
 
 
-**Tech Stack**:   
-**Status**: in porgress
++ **Tech Stack**:
+
+   
++ **Status**: in porgress
 
 
 ## 📚 Tech Articles
