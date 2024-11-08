@@ -41,7 +41,7 @@
 
 
 **Tech Stack**: React, Node.js, MongoDB  
-**Status**: in progress
+**Status**: completed
 
 
 
@@ -49,7 +49,7 @@
 
 
 **Tech Stack**: React, Node.js, MongoDB  
-**Status**: Completed
+**Status**: in porgress
 
 ## 📚 Tech Articles
 + 그림으로 배우는 자바 프로그래밍(저자:마나 타카하시)
