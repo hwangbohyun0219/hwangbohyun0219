@@ -14,7 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-
+## 🚀 Recent Projects
 
 
 ## 📚 Tech Articles
