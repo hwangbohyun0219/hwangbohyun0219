@@ -1,5 +1,5 @@
 ## 👋 안녕하세요
-+ 침착하고 열정적인 웹개발자 **황보현**입니다.
++ 침착하고 열정적인 웹개발자 **황보현(Hyun Hwangbo)**입니다.
 
 ## 🛠 기술 스택
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
