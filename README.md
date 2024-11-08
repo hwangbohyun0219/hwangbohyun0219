@@ -60,7 +60,7 @@
 
 [개인프로젝트2](https://github.com/hwangbohyun0219/react-project)
 
-**Description**: 우주의 태양계를 컨셉으로 하여 시계에 특별함을 더해주는 게시판 사이트
+**Description**: 자바스크립트와 리액트를 활용한 sns 사이트
 
 
 **Tech Stack**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -76,8 +76,9 @@
 [팀프로젝트2]()
 
 
-**Tech Stack**: React, Node.js, MongoDB  
+**Tech Stack**:   
 **Status**: in porgress
+
 
 ## 📚 Tech Articles
 + 그림으로 배우는 자바 프로그래밍(저자:마나 타카하시)
