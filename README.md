@@ -38,7 +38,7 @@
 + **라이브 비디오**: []()
 
 
-+ **진행 상황**: Completed
++ **진행 상황**: 완료
 
 
 
@@ -54,7 +54,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
-+ **진행상황**: Completed
++ **진행상황**: 완료
 
 
 
@@ -68,7 +68,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-+ **진행상황**: completed
++ **진행상황**: 완료
 
 
 
@@ -79,10 +79,11 @@
 + **Tech Stack**:
 
    
-+ **Status**: in porgress
++ **Status**: 진행중
 
 
-
+## 🎓 학습 경력
++ MSA기반 플러터 풀스텍 개발
 
 
 ## 📚 Tech Articles
