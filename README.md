@@ -17,7 +17,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ## 🚀 최근 프로젝트
-[팀프로젝트-현이의 가방끈]()
+[팀프로젝트1-현이의 가방끈]()
 
 + **부연설명**:
 자바와 스프링부트를 이용하여 책을 판매하는 동시에 사용자가 구매한 책으로 학습할 수 있는
