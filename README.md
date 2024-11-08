@@ -15,7 +15,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ## 🚀 Recent Projects
-[팀프로젝트1]()
+[팀프로젝트1](https://github.com/hwangbohyun0219/html-project)
 [개인프로젝트1]()
 [개인프로젝트2]()
 [팀프로젝트2]()
