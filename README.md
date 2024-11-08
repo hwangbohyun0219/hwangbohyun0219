@@ -19,7 +19,7 @@
 ## 🚀 Recent Projects
 [팀프로젝트1]()
 
-**Description**
+**Description**:
 자바와 스프링부트를 이용하여 책을 판매하는 동시에 사용자가 구매한 책으로 학습할 수 있는
 
 
@@ -44,8 +44,16 @@
 
 [개인프로젝트1](https://github.com/hwangbohyun0219/html-project)
 
+**Description**: 우주의 태양계를 컨셉으로 하여 시계에 특별함을 더해주는 게시판 사이트
 
-**Tech Stack**: 
+
+**Tech Stack**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+
 **Status**: Completed
 
 
